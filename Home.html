@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="ch">
+
+<head>
+    <meta charset="UTF-8">
+    <title>彩虹屁生成器</title>
+    <link rel="stylesheet" type="text/css" href="Home.css">
+    <meta name="keywords" content="实用工具，彩虹屁生成器，表白神器" />
+    <meta name="robots" content="index,follow" />
+    <link rel="shortcut icon" href="./picture/favicon.ico ">
+    <script src="./Home.js"></script>
+</head>
+
+<body>
+
+    <div class="head">
+
+        <img src="./picture/head.png" alt="head" class="head-img" />
+
+    </div>
+
+    <input value="输入名字" onclick="input()" id="Nam">
+
+    <div class="dropdown">
+
+        <button class="dropbtn" id="droptitle">选择性别</button>
+
+        <div class="dropdown-content">
+
+            <p onclick="boy()">男生</p>
+
+            <p onclick="girl()">女生</p>
+
+        </div>
+
+    </div>
+
+    <button class="true" onclick="finish()">确认</button>
+
+    <div class="result">
+
+        <p id="re"></p>
+
+    </div>
+
+</body>
+
+</html>
