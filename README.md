@@ -10,4 +10,4 @@
 1. 如果不选择性别的话，默认填写“男生”；
 2. 点击“刷新”查看更多彩虹屁。
 ### 效果预览
-![head](https://s1.ax1x.com/2020/08/15/dkutmQ.png)
+![head](https://s1.ax1x.com/2020/08/15/dkNWAf.png)
