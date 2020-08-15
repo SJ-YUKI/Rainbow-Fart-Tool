@@ -11,3 +11,4 @@
 2. 点击“刷新”查看更多彩虹屁。
 ### 效果预览
 ![head](https://s1.ax1x.com/2020/08/15/dkNWAf.png)
+### [更新日志](https://github.com/SJ-YUKI/Rainbow-Fart-Tool/blob/master/ChangeLog.md)
