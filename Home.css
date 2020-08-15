@@ -335,3 +335,116 @@ input{
     /* 与父元素右侧距离 */
 
 }
+.again{
+    
+    background-color: white;
+
+    /* 背景颜色 */
+   
+    width: 100px;
+
+    /* 宽度 */
+
+    height: 40px;
+
+    /* 高度 */
+
+    outline: none;
+
+    /* 去除浏览器自带外线 */ 
+
+    border: 3px solid #a6c0e7;
+
+    /* 边框样式 */
+
+    border-radius: 3px;
+
+    /* 圆角程度 */
+
+    font-size: 20px;
+
+    /* 文字大小 */
+
+    font-family: "汉仪正圆", Times, serif;
+
+    /* 字体 */
+
+    color: #a6c0e7;
+
+    /* 文字颜色 */
+
+    margin-left: 60px;
+
+    /* 左边距 */
+
+    margin-top: 30px;
+
+    /* 上边距 */
+
+}
+
+.again:hover{
+
+    background-color: #a6c0e7;
+
+    /* 背景颜色 */
+
+    color: white;
+
+    /* 文字颜色 */
+    
+    cursor:pointer;
+
+    /* 光标样式 */
+}
+
+.h31{
+    margin-left: 700px;
+
+    /* 左边距 */
+
+    margin-top:-408px;
+    
+    /* 上边距 */
+
+    font-size: 28px;
+
+    /* 文字大小 */
+
+    font-family: "汉仪正圆", Times, serif;
+
+    /* 字体 */
+}
+
+.intro{
+    margin-left: 700px;
+
+    /* 左边距 */
+
+    line-height: 180%;
+
+    /* 行高 */
+
+    font-size: 18px;
+
+    /* 文字大小 */
+
+    font-family: "汉仪正圆", Times, serif;
+
+    /* 字体 */
+}
+
+.h32{
+    
+    margin-left: 700px;
+
+    /* 左边距 */
+
+    font-size: 28px;
+
+    /* 文字大小 */
+
+    font-family: "汉仪正圆", Times, serif;
+
+    /* 字体 */
+}
