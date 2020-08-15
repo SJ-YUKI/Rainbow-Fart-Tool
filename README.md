@@ -9,4 +9,4 @@
 ### Tips
 如果不选择性别的话，默认填写“男生”。
 ### 效果预览
-![head](https://s1.ax1x.com/2020/08/13/dpmzut.png)
+![head](https://s1.ax1x.com/2020/08/15/dkutmQ.png)
