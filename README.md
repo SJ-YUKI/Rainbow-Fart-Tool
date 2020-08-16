@@ -11,6 +11,6 @@
 + 点击“刷新”查看更多彩虹屁；
 + 点击月亮/太阳符号切换夜间/日间模式。
 ### 效果预览
-+ 日间模式![head](https://s1.ax1x.com/2020/08/16/dENLUP.png)
-+ 夜间模式![head](https://s1.ax1x.com/2020/08/16/dEUnKJ.png)
++ 日间模式![head](https://s1.ax1x.com/2020/08/16/dEstHg.png)
++ 夜间模式![head](https://s1.ax1x.com/2020/08/16/dEscbF.png)
 ### [更新日志](https://github.com/SJ-YUKI/Rainbow-Fart-Tool/blob/master/ChangeLog.md)
