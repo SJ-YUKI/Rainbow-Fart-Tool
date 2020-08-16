@@ -7,8 +7,10 @@
 2. 选择Ta的性别；
 3. 点击“确定”。
 ### Tips
-1. 如果不选择性别的话，默认填写“男生”；
-2. 点击“刷新”查看更多彩虹屁。
++ 如果不选择性别的话，默认填写“男生”；
++ 点击“刷新”查看更多彩虹屁；
++ 点击月亮/太阳符号切换夜间/日间模式。
 ### 效果预览
-![head](https://s1.ax1x.com/2020/08/15/dkNWAf.png)
++ 日间模式![head](https://s1.ax1x.com/2020/08/16/dENLUP.png)
++ 夜间模式![head](https://s1.ax1x.com/2020/08/16/dEUnKJ.png)
 ### [更新日志](https://github.com/SJ-YUKI/Rainbow-Fart-Tool/blob/master/ChangeLog.md)
