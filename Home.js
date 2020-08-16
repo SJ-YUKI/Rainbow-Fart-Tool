@@ -50,3 +50,39 @@ function finish() {
 
     }
 }
+
+function c1() {
+
+    document.getElementById("body").style.backgroundColor = "#7c7c7c";
+
+    document.getElementById("droptitle").style.color = "#7c7c7c";
+
+    document.getElementById("Nam").style.color = "#F1D5E7";
+
+    document.getElementById("model2").style.display = "inline-block";
+
+    document.getElementById("model1").style.display = "none";
+
+    document.getElementById("model2").style.marginTop = "21px";
+
+    document.getElementById("model2").style.marginLeft = "550px";
+
+}
+
+function c2() {
+
+    document.getElementById("body").style.backgroundColor = "#ffffff";
+
+    document.getElementById("droptitle").style.color = "#ffffff";
+
+    document.getElementById("Nam").style.color = "#929191";
+
+    document.getElementById("model1").style.display = "inline-block";
+
+    document.getElementById("model2").style.display = "none";
+
+    document.getElementById("model1").style.marginTop = "21px";
+
+    document.getElementById("model1").style.marginLeft = "550px";
+
+}
