@@ -44,17 +44,9 @@
 
     /* 与父元素左侧距离 */
 
-    margin-top: -35px;
-
-    /* 顶边距 */
-
     width: 433.25px;
-    
-    /* 宽度 */
 
-    height: 112.5px;
-    
-    /* 高度 */
+    margin-top: -35px;
 
 }
 
@@ -103,6 +95,10 @@ input{
     padding-left: 17px;
 
     /* 与父元素左侧距离 */
+
+    background: rgba(255,255,255,0);
+
+    /* 设置背景透明，适应夜间模式 */
 
 }
 
@@ -202,6 +198,10 @@ input{
 
     /* 锁定格式 */
 
+    cursor:pointer;
+
+    /* 光标样式 */
+
 }
 
 .dropdown-content p:hover {
@@ -229,10 +229,10 @@ input{
 }
 
 .true{
-    
-    background-color: white;
 
-    /* 背景颜色 */
+    background: rgba(255,255,255,0);
+
+    /* 设置背景透明，适应夜间模式 */
 
     position: relative;
 
@@ -286,10 +286,13 @@ input{
 
     /* 文字颜色 */
     
+    cursor:pointer;
+
+    /* 光标样式 */
 }
 
 .result{
-    
+
     width: 490px;
 
     /* 宽度 */
@@ -335,11 +338,16 @@ input{
     /* 与父元素右侧距离 */
 
 }
-.again{
-    
-    background-color: white;
 
-    /* 背景颜色 */
+.again{
+
+    position: absolute;
+
+    /* 绝对定位 */ 
+
+    background: rgba(255,255,255,0);
+
+    /* 设置背景透明，适应夜间模式 */
    
     width: 100px;
 
@@ -377,7 +385,7 @@ input{
 
     /* 左边距 */
 
-    margin-top: 30px;
+    margin-top: 25px;
 
     /* 上边距 */
 
@@ -447,6 +455,110 @@ input{
     font-family: "汉仪正圆", Times, serif;
 
     /* 字体 */
+}
+
+@media screen and (max-width: 400px) {
+
+    *{
+        -webkit-tap-highlight-color:rgba(0,0,0,0);
+        }
+
+    .head{
+        width:85%;
+        height: 60px;   
+        margin-top: 40px;
+        margin-left: 30px;
+    }
+    
+    .head-img{
+        padding-left: 0px;
+        margin-top: -11px;
+        width: 100%;
+        height: 75px;
+    }
+    
+    input {
+        width: 79%;
+        margin-top: 40px;
+        margin-left: 30px;
+    }
+
+    .dropbtn {
+        margin-top: 20px;
+        margin-left: 0px;
+    }
+    
+    .dropdown {
+        margin-left: 30px;
+    }
+    
+    .dropdown {
+        position: relative;
+        display: inline-block;
+    }
+    
+    .dropdown-content {
+        display: none;
+        position: absolute;
+    }
+    
+    .dropdown-content p {
+        display: block;
+    }
+    
+    .dropdown-content p:active {
+        background-color: #ffffff
+    }
+    
+    .dropdown:active .dropdown-content {
+        display: block;
+    }
+    
+    .dropdown:hover .dropbtn {
+        background-color: #fdcff2;
+    }
+
+    .result {
+        width: 74%;
+        height: 300px;
+        margin-left: 30px;
+        margin-top: 20px;
+    }
+
+    .again {
+        margin-left: 30px;
+    }
+
+    #model1 {
+        margin-left: 290px!important;
+    }
+
+    #model2{
+        margin-left: 290px!important;
+    }
+
+    #tabl{
+        display:none;
+    }
+
+    .intro {
+        margin-left: 30px;
+        margin-right: 30px;
+    }
+
+    .h31 {
+        margin-top: 50px;
+        margin-left: 30px;
+    }
+
+    .h32 {
+        margin-left: 30px;
+    }
+
+    hr{
+        margin-left: 30px;
+        width: 300px;
+    }
 }
 
 
