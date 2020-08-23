@@ -65,8 +65,6 @@ function c1() {
 
     document.getElementById("model2").style.marginTop = "21px";
 
-    document.getElementById("model2").style.marginLeft = "550px";
-
 }
 
 function c2() {
@@ -82,7 +80,5 @@ function c2() {
     document.getElementById("model2").style.display = "none";
 
     document.getElementById("model1").style.marginTop = "21px";
-
-    document.getElementById("model1").style.marginLeft = "550px";
 
 }
