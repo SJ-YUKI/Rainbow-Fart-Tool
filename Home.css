@@ -457,7 +457,7 @@ input{
     /* 字体 */
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 414px) {
 
     *{
         -webkit-tap-highlight-color:rgba(0,0,0,0);
